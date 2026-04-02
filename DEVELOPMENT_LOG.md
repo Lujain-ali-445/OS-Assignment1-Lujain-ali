@@ -74,16 +74,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 4 - [Date and Time]
-**What I did**: 
+### Entry 4 -  [March 30, 2026, 6:00 PM]
+**What I did**: started working on the project 
 
-**Details**: 
+**Details**:read instructions
+ understood requirements
+ prepared environment
+ 
+**Challenges**:difficulty understanding requirements 
 
-**Challenges**: 
+**Solution**:reviewed lecture materials 
 
-**Solution**: 
-
-**Time spent**: 
+**Time spent**:2 hours 
 
 ---
 
