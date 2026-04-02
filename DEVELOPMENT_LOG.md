@@ -120,10 +120,10 @@ made final improvements
 
 ## Summary
 
-**Total time spent on assignment**: [X hours]
+**Total time spent on assignment**:8.5 hours
 
-**Most challenging part**: 
+**Most challenging part**:understanding the scheduling logic and fixing errors 
 
-**Most interesting learning**: 
+**Most interesting learning**:learning how to debug and improve program performance 
 
-**What I would do differently next time**: 
+**What I would do differently next time**:start earlier and test the code step by step 
