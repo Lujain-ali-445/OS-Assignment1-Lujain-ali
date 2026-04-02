@@ -32,7 +32,7 @@ Document your development process as you work on the assignment. Add entries sho
 
 ## Your Development Log:
 
-### Entry 1 - [April 3, 2026, 3:40 PM]
+### Entry 1 - [April 2, 2026, 3:40 PM]
 **What I did**: added feature 1
 
 **Details**: started coding
