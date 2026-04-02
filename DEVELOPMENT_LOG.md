@@ -89,16 +89,17 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 5 - [Date and Time]
-**What I did**: 
+### Entry 5 - [March 29, 2026, 3:00 PM]
+**What I did**:  initial setup
 
-**Details**: 
+**Details**:set up project files
+ checked code
+ 
+**Challenges**:some setup issues 
 
-**Challenges**: 
+**Solution**:fixed configuration 
 
-**Solution**: 
-
-**Time spent**: 
+**Time spent**: 1 hour 
 
 ---
 
