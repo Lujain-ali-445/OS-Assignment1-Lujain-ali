@@ -60,16 +60,17 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 3 - [Date and Time]
-**What I did**: 
+### Entry 3 - [March 31, 2026, 4:30 PM]
+**What I did**:improved code structure  
+ 
+**Details**:organized functions
+ cleaned up unnecessary code
 
-**Details**: 
+**Challenges**: code was confusing
+ 
+**Solution**:simplified structure 
 
-**Challenges**: 
-
-**Solution**: 
-
-**Time spent**: 
+**Time spent**:2 hours 
 
 ---
 
