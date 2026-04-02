@@ -103,16 +103,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 6 - [Optional - Date and Time]
-**What I did**: 
+### Entry 6 - [April 2, 2026, 6:00 PM]
+**What I did**: reviewed and finalized the project 
 
-**Details**: 
+**Details**:checked all features
+made final improvements
+ ensured correct output 
 
-**Challenges**: 
+**Challenges**: minor formatting issues
 
-**Solution**: 
+**Solution**: adjusted output formatting
 
-**Time spent**: 
+**Time spent**: 1 hour 
 
 ---
 
