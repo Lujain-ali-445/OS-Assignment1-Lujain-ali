@@ -45,16 +45,18 @@ Document your development process as you work on the assignment. Add entries sho
 
 ---
 
-### Entry 2 - [Date and Time]
-**What I did**: 
+### Entry 2 - [April 1, 2026, 5:00 PM]
+**What I did**:fixed bugs in the program 
 
-**Details**: 
+**Details**:reviewed the code
+ corrected logical errors
+ tested the program again
 
-**Challenges**: 
+**Challenges**: program was giving incorrect output
 
-**Solution**: 
+**Solution**:debugged step by step
 
-**Time spent**: 
+**Time spent**:1.5 hours 
 
 ---
 
